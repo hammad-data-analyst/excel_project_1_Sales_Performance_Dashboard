@@ -1,18 +1,20 @@
 # excel_project_1_Sales_Performance_Dashboard
 
-**Download the file & open in M.S Excel for Best Experience
+## Download the file & open in M.S Excel for Best Experience
 https://drive.google.com/drive/folders/10aUxi9qOOLFkhYn5xyMcHEX7Pp0V9_0j
 
-This is a Advanced Project of Excel-
+## This is a Advanced Project of Excel-
 
-Features-
+### Features-
+
 1. User Interactive Clean Dashboard
 2. Can easily use to analyse Sales by Month & Region
 3. Clearly visible Performance of Sales Executives
 4. Best Performing Products
 5. Top Valued Customers
 
-Created From-
+### Created From-
+
 1. Pivot Tables & Fields
 2. Different Charts like Line,Map,Bar & Donut.
 3. Slicers to make dashboard interactive
